@@ -10,7 +10,7 @@ git clone して全ファイル取ってきたら 7zip で zip.001 を解凍し�
 - 2. https://flings.vmware.com/usb-network-native-driver-for-esxi?download_url=https%3A%2F%2Fdownload3.vmware.com%2Fsoftware%2Fvmw-tools%2FUSBNND%2FESXi670-VMKUSB-NIC-FLING-24524132-offline_bundle-13958648.zip
   - ファイル名: VMW_bootbank_vmkusb-nic-fling_1.10-1vmw.703.0.50.55634242.vib
   - 対応: USB NIC
-- https://flings.vmware.com/community-networking-driver-for-esxi
+- 3. https://flings.vmware.com/community-networking-driver-for-esxi
   - ファイル名: VMW_bootbank_net-community_1.2.7.0-1vmw.700.1.0.15843807.vib
   - 対応: IntelNUC
 
