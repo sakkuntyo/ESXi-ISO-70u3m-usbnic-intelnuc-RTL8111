@@ -46,7 +46,7 @@ https://github.com/VFrontDe-Org/ESXi-Customizer-PS/blob/b2ac47c41a866a08b1e94158
 
 試した当時最新は 2.9.0、2.9.0 は PowerCLI 6.5.0 とかみ合わないのかうまくいかず
 
-## 動作確認した USB NIC
+# 動作確認した USB NIC
 
 - TP-Link 有線LANアダプタ ギガビット イーサネット Nintendo Switch/windows/Linux/macOS 対応 UE305 (スイッチ用に買ってた)
 https://amzn.to/3XiItFx
