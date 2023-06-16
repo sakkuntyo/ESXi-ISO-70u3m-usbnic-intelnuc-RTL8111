@@ -1,5 +1,6 @@
 # 使い方
 git clone して全ファイル取ってきたら 7zip で zip.001 を解凍してください。すると iso が出てきます。
+あとは自由に rufus で USB メモリにでも書き込んでください。
 
 # 入れたドライバ
 - 1. https://vibsdepot.v-front.de/wiki/index.php/Net55-r8168 
