@@ -1,14 +1,23 @@
 # 使い方
-git clone して全ファイル取ってきたら 7zip で zip.001 を解凍してください。すると iso が出てきます。
+git clone して全ファイル取ってきたら 7zip で zip.001 を解凍してください。すると ISO が出てきます。
 
 あとは自由に rufus で USB メモリにでも書き込んでください。
 
 # 動作確認
+
+## OKパターン
 USB メモリで起動してこの画面まで勝手に行くのであればNICは認識されています。
 
 HDD や SSD の中身を書き換える前の段階なので、ここまでならデータが消える心配はないです。
 
 ![image](https://github.com/sakkuntyo/ESXi-ISO-70u3m-usbnic-intelnuc-RTL8111/assets/20591351/8a031342-bfec-4cfe-a91b-f1b8adef5d43)
+
+## NGパターン
+
+このメッセージならこの ISO に入れられたドライバでは、その NIC は認識できません。
+
+![image](https://github.com/sakkuntyo/ESXi-ISO-70u3m-usbnic-intelnuc-RTL8111/assets/20591351/abb03687-267a-49bf-9b99-36bd237e2968)
+
 
 # 入れたドライバ
 - 1. https://vibsdepot.v-front.de/wiki/index.php/Net55-r8168 
