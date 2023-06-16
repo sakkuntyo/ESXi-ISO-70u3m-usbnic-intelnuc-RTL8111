@@ -1,24 +1,24 @@
-# g‚¢•û
-git clone ‚µ‚Ä‘Sƒtƒ@ƒCƒ‹æ‚Á‚Ä‚«‚½‚ç 7zip ‚Å 001.zip ‚ğ‰ğ“€‚µ‚Ä‚­‚¾‚³‚¢B
+# ä½¿ã„æ–¹
+git clone ã—ã¦å…¨ãƒ•ã‚¡ã‚¤ãƒ«å–ã£ã¦ããŸã‚‰ 7zip ã§ 001.zip ã‚’è§£å‡ã—ã¦ãã ã•ã„ã€‚ã™ã‚‹ã¨ iso ãŒå‡ºã¦ãã¾ã™ã€‚
 
-# “ü‚ê‚½ƒhƒ‰ƒCƒo
-- https://vibsdepot.v-front.de/wiki/index.php/Net55-r8168 (RTL8111‚Æ‚©)
-ƒtƒ@ƒCƒ‹–¼: net55-r8168-8.045a-napi.x86_64.vib
+# å…¥ã‚ŒãŸãƒ‰ãƒ©ã‚¤ãƒ
+- https://vibsdepot.v-front.de/wiki/index.php/Net55-r8168 (RTL8111ã¨ã‹)
+ãƒ•ã‚¡ã‚¤ãƒ«å: net55-r8168-8.045a-napi.x86_64.vib
 - https://flings.vmware.com/usb-network-native-driver-for-esxi?download_url=https%3A%2F%2Fdownload3.vmware.com%2Fsoftware%2Fvmw-tools%2FUSBNND%2FESXi670-VMKUSB-NIC-FLING-24524132-offline_bundle-13958648.zip (USB-NIC)a
-ƒtƒ@ƒCƒ‹–¼: VMW_bootbank_vmkusb-nic-fling_1.10-1vmw.703.0.50.55634242.vib
-- https://flings.vmware.com/community-networking-driver-for-esxi (IntelNUCŒü‚¯,1.2.7)
-ƒtƒ@ƒCƒ‹–¼: VMW_bootbank_net-community_1.2.7.0-1vmw.700.1.0.15843807.vib
+ãƒ•ã‚¡ã‚¤ãƒ«å: VMW_bootbank_vmkusb-nic-fling_1.10-1vmw.703.0.50.55634242.vib
+- https://flings.vmware.com/community-networking-driver-for-esxi (IntelNUCå‘ã‘,1.2.7)
+ãƒ•ã‚¡ã‚¤ãƒ«å: VMW_bootbank_net-community_1.2.7.0-1vmw.700.1.0.15843807.vib
 
-# ‚Ç‚¤‚â‚Á‚Äì‚ç‚ê‚½‚©
-PowerCLI ‚©‚ç ESXi-Cusomizer-PS-v2.8.1.ps1 ‚ğˆÈ‰ºŒ`®‚ÅÀs
+# ã©ã†ã‚„ã£ã¦ä½œã‚‰ã‚ŒãŸã‹
+PowerCLI ã‹ã‚‰ ESXi-Cusomizer-PS-v2.8.1.ps1 ã‚’ä»¥ä¸‹å½¢å¼ã§å®Ÿè¡Œ
 
 ```
-cd <ã‹Lƒhƒ‰ƒCƒo‚Ìvib‚ğ‚Ü‚Æ‚ß‚½ƒfƒBƒŒƒNƒgƒŠ>
+cd <ä¸Šè¨˜ãƒ‰ãƒ©ã‚¤ãƒã®vibã‚’ã¾ã¨ã‚ãŸãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª>
 .\ESXi-Customizer-PS-v2.8.1.ps1 -v70 -pkgDir .\ -NSC
 ```
 
-## ESXi-Customizer-PS-v.2.8.1.ps1 ‚ÍˆÈ‰º‚©‚ç“üè
+## ESXi-Customizer-PS-v.2.8.1.ps1 ã¯ä»¥ä¸‹ã‹ã‚‰å…¥æ‰‹
 
 https://github.com/VFrontDe-Org/ESXi-Customizer-PS/blob/b2ac47c41a866a08b1e94158c79828b08eeaa116/ESXi-Customizer-PS.ps1
 
-‚µ‚½“–ÅV‚Í2.9.0A‚µ‚©‚µPowerCLI 6.5.0 ‚Æ‚©‚İ‡‚í‚È‚¢‚Ì‚©‚¤‚Ü‚­‚¢‚©‚¸
+è©¦ã—ãŸå½“æ™‚æœ€æ–°ã¯2.9.0ã€ã—ã‹ã—PowerCLI 6.5.0 ã¨ã‹ã¿åˆã‚ãªã„ã®ã‹ã†ã¾ãã„ã‹ãš
