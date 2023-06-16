@@ -3,6 +3,13 @@ git clone して全ファイル取ってきたら 7zip で zip.001 を解凍し�
 
 あとは自由に rufus で USB メモリにでも書き込んでください。
 
+# 動作確認
+USB メモリで起動してこの画面まで勝手に行くのであればNICは認識されています。
+
+HDD や SSD の中身を書き換える前の段階なので、ここまでならデータが消える心配はないです。
+
+![image](https://github.com/sakkuntyo/ESXi-ISO-70u3m-usbnic-intelnuc-RTL8111/assets/20591351/8a031342-bfec-4cfe-a91b-f1b8adef5d43)
+
 # 入れたドライバ
 - 1. https://vibsdepot.v-front.de/wiki/index.php/Net55-r8168 
   - ファイル名: net55-r8168-8.045a-napi.x86_64.vib
@@ -26,4 +33,4 @@ cd <上記ドライバのvibをまとめたディレクトリ>
 
 https://github.com/VFrontDe-Org/ESXi-Customizer-PS/blob/b2ac47c41a866a08b1e94158c79828b08eeaa116/ESXi-Customizer-PS.ps1
 
-試した当時最新は2.9.0、2.9.0 は PowerCLI 6.5.0 とかみ合わないのかうまくいかず
+試した当時最新は 2.9.0、2.9.0 は PowerCLI 6.5.0 とかみ合わないのかうまくいかず
