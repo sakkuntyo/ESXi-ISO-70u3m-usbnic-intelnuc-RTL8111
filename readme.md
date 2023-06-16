@@ -10,7 +10,7 @@ git clone して全ファイル取ってきたら 7zip で 001.zip を解凍し�
   - 対応: USB NIC
 - https://flings.vmware.com/community-networking-driver-for-esxi
   - ファイル名: VMW_bootbank_net-community_1.2.7.0-1vmw.700.1.0.15843807.vib
-  - 対応: IntelNUC向け
+  - 対応: IntelNUC
 
 # どうやって作られたか
 PowerCLI 6.5.0 から ESXi-Cusomizer-PS-v2.8.1.ps1 を以下形式で実行
