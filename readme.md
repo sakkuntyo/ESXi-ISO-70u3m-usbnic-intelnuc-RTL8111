@@ -22,13 +22,13 @@ HDD や SSD の中身を書き換える前の段階なので、ここまでな�
 
 
 # 入れたドライバ
-1. https://vibsdepot.v-front.de/wiki/index.php/Net55-r8168 
+- 1. https://vibsdepot.v-front.de/wiki/index.php/Net55-r8168 
   - ファイル名: net55-r8168-8.045a-napi.x86_64.vib
   - 対応:RTL8111とか
-2. https://flings.vmware.com/usb-network-native-driver-for-esxi?download_url=https%3A%2F%2Fdownload3.vmware.com%2Fsoftware%2Fvmw-tools%2FUSBNND%2FESXi670-VMKUSB-NIC-FLING-24524132-offline_bundle-13958648.zip
+- 2. https://flings.vmware.com/usb-network-native-driver-for-esxi?download_url=https%3A%2F%2Fdownload3.vmware.com%2Fsoftware%2Fvmw-tools%2FUSBNND%2FESXi670-VMKUSB-NIC-FLING-24524132-offline_bundle-13958648.zip
   - ファイル名: VMW_bootbank_vmkusb-nic-fling_1.10-1vmw.703.0.50.55634242.vib
   - 対応: USB NIC
-3. https://flings.vmware.com/community-networking-driver-for-esxi
+- 3. https://flings.vmware.com/community-networking-driver-for-esxi
   - ファイル名: VMW_bootbank_net-community_1.2.7.0-1vmw.700.1.0.15843807.vib
   - 対応: IntelNUC
 
