@@ -50,3 +50,5 @@ https://github.com/VFrontDe-Org/ESXi-Customizer-PS/blob/b2ac47c41a866a08b1e94158
 
 - TP-Link 有線LANアダプタ ギガビット イーサネット Nintendo Switch/windows/Linux/macOS 対応 UE305 (スイッチ用に買ってた)
 https://amzn.to/3XiItFx
+![image](https://github.com/sakkuntyo/ESXi-ISO-70u3m-usbnic-intelnuc-RTL8111/assets/20591351/f4ecf344-25ef-4504-93fe-213c0f2b2617)
+
