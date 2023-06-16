@@ -49,4 +49,4 @@ https://github.com/VFrontDe-Org/ESXi-Customizer-PS/blob/b2ac47c41a866a08b1e94158
 ## 動作確認した USB NIC
 
 - TP-Link 有線LANアダプタ ギガビット イーサネット Nintendo Switch/windows/Linux/macOS 対応 UE305 (スイッチ用に買ってた)
-https://www.amazon.co.jp/gp/product/B08MPT4YXT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+https://amzn.to/3XiItFx
