@@ -16,6 +16,8 @@ HDD や SSD の中身を書き換える前の段階なので、ここまでな�
 
 このメッセージならこの ISO に入れられたドライバでは、その NIC は認識できません。
 
+"No network adapters were detected."
+
 ![image](https://github.com/sakkuntyo/ESXi-ISO-70u3m-usbnic-intelnuc-RTL8111/assets/20591351/abb03687-267a-49bf-9b99-36bd237e2968)
 
 
